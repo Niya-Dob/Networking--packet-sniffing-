@@ -1,0 +1,2006 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000       192.168.1.158         157.240.229.174       QUIC     1292   Initial, DCID=a95ba0a4d466d26a, PKN: 1, PING, CRYPTO, PING, CRYPTO, PING, PING, CRYPTO, CRYPTO, PING, PING, CRYPTO, PADDING, CRYPTO, CRYPTO, PING, CRYPTO, PADDING, PING, PADDING, CRYPTO, CRYPTO, PING
+
+Frame 1: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.000479       192.168.1.158         157.240.229.174       QUIC     124    0-RTT, DCID=a95ba0a4d466d26a
+
+Frame 2: 124 bytes on wire (992 bits), 124 bytes captured (992 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.018343       157.240.229.174       192.168.1.158         QUIC     1274   Initial, SCID=a22d00cd0c0e643d, PKN: 14442213, CRYPTO, ACK, PADDING
+
+Frame 3: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 0.018364       157.240.229.174       192.168.1.158         QUIC     331    Handshake, SCID=a22d00cd0c0e643d
+
+Frame 4: 331 bytes on wire (2648 bits), 331 bytes captured (2648 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 0.018367       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 5: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 0.018369       157.240.229.174       192.168.1.158         QUIC     122    Protected Payload (KP0)
+
+Frame 6: 122 bytes on wire (976 bits), 122 bytes captured (976 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 0.019125       192.168.1.158         157.240.229.174       QUIC     123    Handshake, DCID=a22d00cd0c0e643d
+
+Frame 7: 123 bytes on wire (984 bits), 123 bytes captured (984 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 0.020288       192.168.1.158         157.240.229.174       QUIC     1288   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 8: 1288 bytes on wire (10304 bits), 1288 bytes captured (10304 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 0.020290       192.168.1.158         157.240.229.174       QUIC     624    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 9: 624 bytes on wire (4992 bits), 624 bytes captured (4992 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 0.020487       192.168.1.158         157.240.229.174       QUIC     1134   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 10: 1134 bytes on wire (9072 bits), 1134 bytes captured (9072 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 0.033135       157.240.229.174       192.168.1.158         QUIC     81     Handshake, SCID=a22d00cd0c0e643d
+
+Frame 11: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 0.033158       157.240.229.174       192.168.1.158         QUIC     154    Protected Payload (KP0)
+
+Frame 12: 154 bytes on wire (1232 bits), 154 bytes captured (1232 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 0.033161       157.240.229.174       192.168.1.158         QUIC     314    Protected Payload (KP0)
+
+Frame 13: 314 bytes on wire (2512 bits), 314 bytes captured (2512 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 0.033585       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 14: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 0.036141       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 15: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 0.036159       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 16: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 0.063212       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 17: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 0.065725       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 18: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 0.139595       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 19: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 0.139624       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 20: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 0.139628       157.240.229.174       192.168.1.158         QUIC     858    Protected Payload (KP0)
+
+Frame 21: 858 bytes on wire (6864 bits), 858 bytes captured (6864 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 0.140401       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 22: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 0.140605       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 23: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 0.180866       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 24: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 0.504521       192.168.1.158         157.240.229.174       QUIC     407    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 25: 407 bytes on wire (3256 bits), 407 bytes captured (3256 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 0.504639       192.168.1.158         157.240.229.174       QUIC     1257   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 26: 1257 bytes on wire (10056 bits), 1257 bytes captured (10056 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 0.513859       192.168.1.158         157.240.229.174       QUIC     285    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 27: 285 bytes on wire (2280 bits), 285 bytes captured (2280 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 0.523119       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 28: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 0.538375       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 29: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 0.538652       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 30: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 0.634427       157.240.229.174       192.168.1.158         QUIC     218    Protected Payload (KP0)
+
+Frame 31: 218 bytes on wire (1744 bits), 218 bytes captured (1744 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 0.634797       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 32: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 0.658053       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 33: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 0.658072       157.240.229.174       192.168.1.158         QUIC     634    Protected Payload (KP0)
+
+Frame 34: 634 bytes on wire (5072 bits), 634 bytes captured (5072 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 0.659111       192.168.1.158         157.240.229.174       QUIC     81     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 35: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 0.663496       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 36: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 0.663510       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 37: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 0.663512       157.240.229.174       192.168.1.158         QUIC     986    Protected Payload (KP0)
+
+Frame 38: 986 bytes on wire (7888 bits), 986 bytes captured (7888 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 0.663955       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 39: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 0.664075       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 40: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 0.668629       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 41: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 0.668647       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 42: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 0.668650       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 43: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 0.668652       157.240.229.174       192.168.1.158         QUIC     506    Protected Payload (KP0)
+
+Frame 44: 506 bytes on wire (4048 bits), 506 bytes captured (4048 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 0.669299       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 45: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 0.669525       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 46: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 0.669957       192.168.1.158         157.240.229.174       QUIC     1071   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 47: 1071 bytes on wire (8568 bits), 1071 bytes captured (8568 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 0.672244       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 48: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 0.672259       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 49: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 0.672261       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 50: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 0.672263       157.240.229.174       192.168.1.158         QUIC     730    Protected Payload (KP0)
+
+Frame 51: 730 bytes on wire (5840 bits), 730 bytes captured (5840 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 0.672542       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 52: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 0.672612       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 53: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 0.684483       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 54: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 0.702761       192.168.1.158         157.240.229.174       QUIC     504    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 55: 504 bytes on wire (4032 bits), 504 bytes captured (4032 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 0.702915       192.168.1.158         157.240.229.174       QUIC     180    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 56: 180 bytes on wire (1440 bits), 180 bytes captured (1440 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 0.714849       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 57: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 0.714863       157.240.229.174       192.168.1.158         QUIC     378    Protected Payload (KP0)
+
+Frame 58: 378 bytes on wire (3024 bits), 378 bytes captured (3024 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 0.715180       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 59: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 0.716728       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 60: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 0.729358       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 61: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 0.729373       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 62: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 0.729375       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 63: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 0.729376       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 64: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 0.729378       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 65: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 0.729380       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 66: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 0.729382       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 67: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 0.729383       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 68: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 0.729385       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 69: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 0.729386       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 70: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 0.729388       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 71: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 0.729389       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 72: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 0.729391       157.240.229.174       192.168.1.158         QUIC     474    Protected Payload (KP0)
+
+Frame 73: 474 bytes on wire (3792 bits), 474 bytes captured (3792 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 0.729727       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 74: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 0.729801       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 75: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 0.729920       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 76: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 0.729969       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 77: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 0.730036       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 78: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 0.730111       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 79: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 0.730137       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 80: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 0.732209       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 81: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     82 0.732230       157.240.229.174       192.168.1.158         QUIC     378    Protected Payload (KP0)
+
+Frame 82: 378 bytes on wire (3024 bits), 378 bytes captured (3024 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 0.733346       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 83: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 0.747634       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 84: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 0.747650       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 85: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 0.747653       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 86: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 0.747655       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 87: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 0.747657       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 88: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 0.747659       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 89: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 0.747662       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 90: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     91 0.747664       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 91: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     92 0.747759       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 92: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 0.747764       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 93: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     94 0.747766       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 94: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     95 0.747768       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 95: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     96 0.747771       157.240.229.174       192.168.1.158         QUIC     474    Protected Payload (KP0)
+
+Frame 96: 474 bytes on wire (3792 bits), 474 bytes captured (3792 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     97 0.748280       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 97: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     98 0.748462       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 98: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+     99 0.748571       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 99: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    100 0.748968       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 100: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    101 0.749196       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 101: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    102 0.749286       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 102: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    103 0.750469       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 103: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    104 0.750488       157.240.229.174       192.168.1.158         QUIC     378    Protected Payload (KP0)
+
+Frame 104: 378 bytes on wire (3024 bits), 378 bytes captured (3024 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    105 0.750490       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 105: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    106 0.750493       157.240.229.174       192.168.1.158         QUIC     1050   Protected Payload (KP0)
+
+Frame 106: 1050 bytes on wire (8400 bits), 1050 bytes captured (8400 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    107 0.751463       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 107: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    108 0.751539       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 108: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    109 0.754274       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 109: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    110 0.754291       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 110: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    111 0.754294       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 111: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    112 0.754296       157.240.229.174       192.168.1.158         QUIC     538    Protected Payload (KP0)
+
+Frame 112: 538 bytes on wire (4304 bits), 538 bytes captured (4304 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    113 0.754657       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 113: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    114 0.755633       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 114: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    115 0.759006       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 115: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    116 0.759021       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 116: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    117 0.759023       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 117: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    118 0.759025       157.240.229.174       192.168.1.158         QUIC     378    Protected Payload (KP0)
+
+Frame 118: 378 bytes on wire (3024 bits), 378 bytes captured (3024 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    119 0.764530       192.168.1.158         157.240.229.174       QUIC     81     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 119: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    120 0.764610       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 120: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    121 0.769839       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 121: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    122 0.769852       157.240.229.174       192.168.1.158         QUIC     378    Protected Payload (KP0)
+
+Frame 122: 378 bytes on wire (3024 bits), 378 bytes captured (3024 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    123 0.769854       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 123: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    124 0.769855       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 124: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    125 0.769857       157.240.229.174       192.168.1.158         QUIC     1242   Protected Payload (KP0)
+
+Frame 125: 1242 bytes on wire (9936 bits), 1242 bytes captured (9936 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    126 0.779310       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 126: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    127 0.779536       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 127: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    128 0.779759       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 128: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    129 0.785348       157.240.229.174       192.168.1.158         QUIC     186    Protected Payload (KP0)
+
+Frame 129: 186 bytes on wire (1488 bits), 186 bytes captured (1488 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    130 0.790269       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 130: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    131 0.801309       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 131: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    132 0.801322       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 132: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    133 0.801324       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 133: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    134 0.801327       157.240.229.174       192.168.1.158         QUIC     474    Protected Payload (KP0)
+
+Frame 134: 474 bytes on wire (3792 bits), 474 bytes captured (3792 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    135 0.801328       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 135: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    136 0.801330       157.240.229.174       192.168.1.158         QUIC     250    Protected Payload (KP0)
+
+Frame 136: 250 bytes on wire (2000 bits), 250 bytes captured (2000 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    137 0.809551       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 137: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    138 0.811349       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 138: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    139 0.811410       192.168.1.158         157.240.229.174       QUIC     76     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 139: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    140 0.820935       157.240.229.174       192.168.1.158         QUIC     314    Protected Payload (KP0)
+
+Frame 140: 314 bytes on wire (2512 bits), 314 bytes captured (2512 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    141 0.820953       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 141: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    142 0.826085       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 142: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    143 0.852845       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 143: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    144 0.862544       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 144: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    145 1.390912       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 145: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    146 1.392518       192.168.1.158         157.240.229.174       QUIC     1286   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 146: 1286 bytes on wire (10288 bits), 1286 bytes captured (10288 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    147 1.392520       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 147: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    148 1.392520       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 148: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    149 1.392521       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 149: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    150 1.392522       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 150: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    151 1.392522       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 151: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    152 1.392523       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 152: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    153 1.392524       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 153: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    154 1.392524       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 154: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    155 1.392525       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 155: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    156 1.392526       192.168.1.158         157.240.229.174       QUIC     1094   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 156: 1094 bytes on wire (8752 bits), 1094 bytes captured (8752 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    157 1.409326       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 157: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    158 1.412302       192.168.1.158         157.240.229.174       QUIC     922    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 158: 922 bytes on wire (7376 bits), 922 bytes captured (7376 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    159 1.420870       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 159: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    160 1.425207       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 160: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    161 1.451519       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 161: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    162 1.498934       192.168.1.158         157.240.229.174       QUIC     1286   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 162: 1286 bytes on wire (10288 bits), 1286 bytes captured (10288 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    163 1.499069       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 163: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    164 1.499226       192.168.1.158         157.240.229.174       QUIC     134    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 164: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    165 1.513669       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 165: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    166 1.528626       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 166: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    167 1.539113       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 167: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    168 1.543200       192.168.1.158         157.240.229.174       QUIC     1286   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 168: 1286 bytes on wire (10288 bits), 1286 bytes captured (10288 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    169 1.543269       192.168.1.158         157.240.229.174       QUIC     375    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 169: 375 bytes on wire (3000 bits), 375 bytes captured (3000 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    170 1.557029       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 170: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    171 1.579005       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 171: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    172 1.579072       192.168.1.158         157.240.229.174       QUIC     758    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 172: 758 bytes on wire (6064 bits), 758 bytes captured (6064 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    173 1.582312       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 173: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    174 1.589735       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 174: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    175 1.589815       192.168.1.158         157.240.229.174       QUIC     1182   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 175: 1182 bytes on wire (9456 bits), 1182 bytes captured (9456 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    176 1.593041       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 176: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    177 1.601794       157.240.229.174       192.168.1.158         QUIC     666    Protected Payload (KP0)
+
+Frame 177: 666 bytes on wire (5328 bits), 666 bytes captured (5328 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    178 1.602070       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 178: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    179 1.605908       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 179: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    180 1.611705       157.240.229.174       192.168.1.158         QUIC     186    Protected Payload (KP0)
+
+Frame 180: 186 bytes on wire (1488 bits), 186 bytes captured (1488 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    181 1.612053       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 181: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    182 1.635591       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 182: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    183 1.680687       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 183: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    184 1.680707       157.240.229.174       192.168.1.158         QUIC     250    Protected Payload (KP0)
+
+Frame 184: 250 bytes on wire (2000 bits), 250 bytes captured (2000 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    185 1.681923       192.168.1.158         157.240.229.174       QUIC     81     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 185: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    186 1.710085       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 186: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    187 1.715608       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 187: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    188 1.724374       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 188: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    189 1.724395       157.240.229.174       192.168.1.158         QUIC     538    Protected Payload (KP0)
+
+Frame 189: 538 bytes on wire (4304 bits), 538 bytes captured (4304 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    190 1.724852       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 190: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    191 1.729150       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 191: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    192 1.737990       157.240.229.174       192.168.1.158         QUIC     314    Protected Payload (KP0)
+
+Frame 192: 314 bytes on wire (2512 bits), 314 bytes captured (2512 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    193 1.738387       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 193: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    194 1.757557       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 194: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    195 1.952130       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 195: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    196 1.952149       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 196: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    197 1.952152       157.240.229.174       192.168.1.158         QUIC     186    Protected Payload (KP0)
+
+Frame 197: 186 bytes on wire (1488 bits), 186 bytes captured (1488 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    198 1.952155       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 198: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    199 1.952157       157.240.229.174       192.168.1.158         QUIC     1274   Protected Payload (KP0)
+
+Frame 199: 1274 bytes on wire (10192 bits), 1274 bytes captured (10192 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    200 1.953002       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 200: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    201 1.953114       192.168.1.158         157.240.229.174       QUIC     78     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 201: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    202 1.953161       192.168.1.158         157.240.229.174       QUIC     78     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 202: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    203 1.989421       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 203: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    204 2.280749       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 204: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    205 2.282318       192.168.1.158         157.240.229.174       QUIC     709    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 205: 709 bytes on wire (5672 bits), 709 bytes captured (5672 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    206 2.282319       192.168.1.158         157.240.229.174       QUIC     1287   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 206: 1287 bytes on wire (10296 bits), 1287 bytes captured (10296 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    207 2.282320       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 207: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    208 2.282321       192.168.1.158         157.240.229.174       QUIC     88     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 208: 88 bytes on wire (704 bits), 88 bytes captured (704 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    209 2.295500       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 209: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    210 2.299501       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 210: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    211 2.321202       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 211: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    212 2.408750       157.240.229.174       192.168.1.158         QUIC     186    Protected Payload (KP0)
+
+Frame 212: 186 bytes on wire (1488 bits), 186 bytes captured (1488 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    213 2.409469       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 213: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    214 2.456783       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 214: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    215 5.493991       192.168.1.158         157.240.229.174       QUIC     1292   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 215: 1292 bytes on wire (10336 bits), 1292 bytes captured (10336 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    216 5.495561       192.168.1.158         157.240.229.174       QUIC     808    Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 216: 808 bytes on wire (6464 bits), 808 bytes captured (6464 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    217 5.495562       192.168.1.158         157.240.229.174       QUIC     1141   Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 217: 1141 bytes on wire (9128 bits), 1141 bytes captured (9128 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    218 5.510009       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 218: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    219 5.514506       192.168.1.158         157.240.229.174       QUIC     77     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 219: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    220 5.536904       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 220: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    221 5.613731       157.240.229.174       192.168.1.158         QUIC     218    Protected Payload (KP0)
+
+Frame 221: 218 bytes on wire (1744 bits), 218 bytes captured (1744 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    222 5.614120       192.168.1.158         157.240.229.174       QUIC     80     Protected Payload (KP0), DCID=a22d00cd0c0e643d
+
+Frame 222: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 157.240.229.174
+User Datagram Protocol, Src Port: 57834, Dst Port: 443
+QUIC IETF
+
+No.     Time           Source                Destination           Protocol Length Info
+    223 5.652250       157.240.229.174       192.168.1.158         QUIC     90     Protected Payload (KP0)
+
+Frame 223: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 157.240.229.174, Dst: 192.168.1.158
+User Datagram Protocol, Src Port: 443, Dst Port: 57834
+QUIC IETF
