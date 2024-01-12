@@ -1,0 +1,420 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000       192.168.1.158         192.229.211.108       TCP      66     51553 → 80 [FIN, ACK] Seq=1 Ack=1 Win=2048 Len=0 TSval=3605870153 TSecr=2122188375
+
+Frame 1: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 192.229.211.108
+Transmission Control Protocol, Src Port: 51553, Dst Port: 80, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.017783       192.229.211.108       192.168.1.158         TCP      66     80 → 51553 [FIN, ACK] Seq=1 Ack=2 Win=131 Len=0 TSval=2122218458 TSecr=3605870153
+
+Frame 2: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 192.229.211.108, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51553, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.018005       192.168.1.158         192.229.211.108       TCP      66     51553 → 80 [ACK] Seq=2 Ack=2 Win=2048 Len=0 TSval=3605870171 TSecr=2122218458
+
+Frame 3: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 192.229.211.108
+Transmission Control Protocol, Src Port: 51553, Dst Port: 80, Seq: 2, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 2.476398       192.168.1.158         93.184.216.34         TCP      78     51572 → 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=64 TSval=3418597243 TSecr=0 SACK_PERM
+
+Frame 4: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 93.184.216.34
+Transmission Control Protocol, Src Port: 51572, Dst Port: 80, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 2.491074       93.184.216.34         192.168.1.158         TCP      74     80 → 51572 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM TSval=1350149946 TSecr=3418597243 WS=512
+
+Frame 5: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 93.184.216.34, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51572, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 2.491161       192.168.1.158         93.184.216.34         TCP      66     51572 → 80 [ACK] Seq=1 Ack=1 Win=131712 Len=0 TSval=3418597258 TSecr=1350149946
+
+Frame 6: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 93.184.216.34
+Transmission Control Protocol, Src Port: 51572, Dst Port: 80, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 2.685373       192.168.1.158         93.184.216.34         HTTP     428    GET / HTTP/1.1 
+
+Frame 7: 428 bytes on wire (3424 bits), 428 bytes captured (3424 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 93.184.216.34
+Transmission Control Protocol, Src Port: 51572, Dst Port: 80, Seq: 1, Ack: 1, Len: 362
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 2.700050       93.184.216.34         192.168.1.158         TCP      66     80 → 51572 [ACK] Seq=1 Ack=363 Win=67072 Len=0 TSval=1350150155 TSecr=3418597452
+
+Frame 8: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 93.184.216.34, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51572, Seq: 1, Ack: 363, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 2.700066       93.184.216.34         192.168.1.158         HTTP     1071   HTTP/1.1 200 OK  (text/html)
+
+Frame 9: 1071 bytes on wire (8568 bits), 1071 bytes captured (8568 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 93.184.216.34, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51572, Seq: 1, Ack: 363, Len: 1005
+Hypertext Transfer Protocol
+Line-based text data: text/html (46 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 2.700142       192.168.1.158         93.184.216.34         TCP      66     51572 → 80 [ACK] Seq=363 Ack=1006 Win=130752 Len=0 TSval=3418597467 TSecr=1350150156
+
+Frame 10: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 93.184.216.34
+Transmission Control Protocol, Src Port: 51572, Dst Port: 80, Seq: 363, Ack: 1006, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 2.901714       192.168.1.158         93.184.216.34         HTTP     379    GET /favicon.ico HTTP/1.1 
+
+Frame 11: 379 bytes on wire (3032 bits), 379 bytes captured (3032 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 93.184.216.34
+Transmission Control Protocol, Src Port: 51572, Dst Port: 80, Seq: 363, Ack: 1006, Len: 313
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 2.918449       93.184.216.34         192.168.1.158         HTTP     1079   HTTP/1.1 404 Not Found  (text/html)
+
+Frame 12: 1079 bytes on wire (8632 bits), 1079 bytes captured (8632 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 93.184.216.34, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51572, Seq: 1006, Ack: 676, Len: 1013
+Hypertext Transfer Protocol
+Line-based text data: text/html (46 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 2.918544       192.168.1.158         93.184.216.34         TCP      66     51572 → 80 [ACK] Seq=676 Ack=2019 Win=130048 Len=0 TSval=3418597686 TSecr=1350150372
+
+Frame 13: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 93.184.216.34
+Transmission Control Protocol, Src Port: 51572, Dst Port: 80, Seq: 676, Ack: 2019, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 13.911674      192.168.1.158         192.229.211.108       TCP      78     51577 → 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=64 TSval=1691527583 TSecr=0 SACK_PERM
+
+Frame 14: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 192.229.211.108
+Transmission Control Protocol, Src Port: 51577, Dst Port: 80, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 13.924449      192.229.211.108       192.168.1.158         TCP      74     80 → 51577 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM TSval=2842528606 TSecr=1691527583 WS=512
+
+Frame 15: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 192.229.211.108, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51577, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 13.924605      192.168.1.158         192.229.211.108       TCP      66     51577 → 80 [ACK] Seq=1 Ack=1 Win=131712 Len=0 TSval=1691527597 TSecr=2842528606
+
+Frame 16: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 192.229.211.108
+Transmission Control Protocol, Src Port: 51577, Dst Port: 80, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 13.925975      192.168.1.158         192.229.211.108       HTTP     415    GET /ME8wTTBLMEkwRzAHBgUrDgMCGgQUwS9Fdu0VWeywXbqJv52AeOUj1BMEFOWdWTCCR1jMrPoIVDaGezq1BE3wAhAFUsfv%2FuwpK6nxOHsHr5Kf HTTP/1.1 
+
+Frame 17: 415 bytes on wire (3320 bits), 415 bytes captured (3320 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 192.229.211.108
+Transmission Control Protocol, Src Port: 51577, Dst Port: 80, Seq: 1, Ack: 1, Len: 349
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 13.940038      192.229.211.108       192.168.1.158         TCP      66     80 → 51577 [ACK] Seq=1 Ack=350 Win=67072 Len=0 TSval=2842528621 TSecr=1691527598
+
+Frame 18: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 192.229.211.108, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51577, Seq: 1, Ack: 350, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 13.940066      192.229.211.108       192.168.1.158         TCP      1514   80 → 51577 [ACK] Seq=1 Ack=350 Win=67072 Len=1448 TSval=2842528622 TSecr=1691527598 [TCP segment of a reassembled PDU]
+
+Frame 19: 1514 bytes on wire (12112 bits), 1514 bytes captured (12112 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 192.229.211.108, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51577, Seq: 1, Ack: 350, Len: 1448
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 13.940071      192.229.211.108       192.168.1.158         OCSP     391    Response
+
+Frame 20: 391 bytes on wire (3128 bits), 391 bytes captured (3128 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 192.229.211.108, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51577, Seq: 1449, Ack: 350, Len: 325
+[2 Reassembled TCP Segments (1773 bytes): #19(1448), #20(325)]
+Hypertext Transfer Protocol
+Online Certificate Status Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 13.940188      192.168.1.158         192.229.211.108       TCP      66     51577 → 80 [ACK] Seq=350 Ack=1774 Win=129984 Len=0 TSval=1691527612 TSecr=2842528622
+
+Frame 21: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 192.229.211.108
+Transmission Control Protocol, Src Port: 51577, Dst Port: 80, Seq: 350, Ack: 1774, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 26.274144      192.168.1.158         8.43.85.97            TCP      78     51578 → 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=64 TSval=176396669 TSecr=0 SACK_PERM
+
+Frame 22: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 26.295253      8.43.85.97            192.168.1.158         TCP      74     80 → 51578 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1400 SACK_PERM TSval=52151670 TSecr=176396669 WS=128
+
+Frame 23: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 26.295340      192.168.1.158         8.43.85.97            TCP      66     51578 → 80 [ACK] Seq=1 Ack=1 Win=131840 Len=0 TSval=176396690 TSecr=52151670
+
+Frame 24: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 26.369889      192.168.1.158         8.43.85.97            HTTP     427    GET / HTTP/1.1 
+
+Frame 25: 427 bytes on wire (3416 bits), 427 bytes captured (3416 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 1, Ack: 1, Len: 361
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 26.394126      8.43.85.97            192.168.1.158         TCP      66     80 → 51578 [ACK] Seq=1 Ack=362 Win=30080 Len=0 TSval=52151768 TSecr=176396765
+
+Frame 26: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 1, Ack: 362, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 26.394522      8.43.85.97            192.168.1.158         TCP      1454   80 → 51578 [ACK] Seq=1 Ack=362 Win=30080 Len=1388 TSval=52151770 TSecr=176396765 [TCP segment of a reassembled PDU]
+
+Frame 27: 1454 bytes on wire (11632 bits), 1454 bytes captured (11632 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 1, Ack: 362, Len: 1388
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 26.394535      8.43.85.97            192.168.1.158         HTTP     1308   HTTP/1.1 200 OK  (text/html)
+
+Frame 28: 1308 bytes on wire (10464 bits), 1308 bytes captured (10464 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 1389, Ack: 362, Len: 1242
+[2 Reassembled TCP Segments (2630 bytes): #27(1388), #28(1242)]
+Hypertext Transfer Protocol
+Line-based text data: text/html (181 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 26.394591      192.168.1.158         8.43.85.97            TCP      66     51578 → 80 [ACK] Seq=362 Ack=1389 Win=130432 Len=0 TSval=176396789 TSecr=52151770
+
+Frame 29: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 362, Ack: 1389, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 26.394661      192.168.1.158         8.43.85.97            TCP      66     51578 → 80 [ACK] Seq=362 Ack=2631 Win=129216 Len=0 TSval=176396789 TSecr=52151770
+
+Frame 30: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 362, Ack: 2631, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 26.418812      192.168.1.158         8.43.85.97            HTTP     390    GET /style.css HTTP/1.1 
+
+Frame 31: 390 bytes on wire (3120 bits), 390 bytes captured (3120 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 362, Ack: 2631, Len: 324
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 26.443416      8.43.85.97            192.168.1.158         TCP      1454   80 → 51578 [ACK] Seq=2631 Ack=686 Win=31104 Len=1388 TSval=52151818 TSecr=176396814 [TCP segment of a reassembled PDU]
+
+Frame 32: 1454 bytes on wire (11632 bits), 1454 bytes captured (11632 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 2631, Ack: 686, Len: 1388
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 26.443425      8.43.85.97            192.168.1.158         HTTP     1086   HTTP/1.1 200 OK  (text/css)
+
+Frame 33: 1086 bytes on wire (8688 bits), 1086 bytes captured (8688 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 4019, Ack: 686, Len: 1020
+[2 Reassembled TCP Segments (2408 bytes): #32(1388), #33(1020)]
+Hypertext Transfer Protocol
+Line-based text data: text/css (493 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 26.443560      192.168.1.158         8.43.85.97            TCP      66     51578 → 80 [ACK] Seq=686 Ack=5039 Win=128640 Len=0 TSval=176396839 TSecr=52151818
+
+Frame 34: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 686, Ack: 5039, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 26.523467      192.168.1.158         8.43.85.97            HTTP     377    GET /favicon.ico HTTP/1.1 
+
+Frame 35: 377 bytes on wire (3016 bits), 377 bytes captured (3016 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 686, Ack: 5039, Len: 311
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 26.543194      8.43.85.97            192.168.1.158         HTTP     672    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 36: 672 bytes on wire (5376 bits), 672 bytes captured (5376 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 5039, Ack: 997, Len: 606
+Hypertext Transfer Protocol
+Line-based text data: text/html (7 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 26.543293      192.168.1.158         8.43.85.97            TCP      66     51578 → 80 [ACK] Seq=997 Ack=5645 Win=130432 Len=0 TSval=176396938 TSecr=52151918
+
+Frame 37: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 997, Ack: 5645, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 29.987532      192.168.1.158         142.250.31.94         TCP      66     51563 → 80 [FIN, ACK] Seq=1 Ack=1 Win=2048 Len=0 TSval=3127173791 TSecr=1227538977
+
+Frame 38: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 142.250.31.94
+Transmission Control Protocol, Src Port: 51563, Dst Port: 80, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 29.988259      192.168.1.158         172.253.122.94        TCP      66     51558 → 80 [FIN, ACK] Seq=1 Ack=1 Win=2048 Len=0 TSval=2289428925 TSecr=3415786190
+
+Frame 39: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 172.253.122.94
+Transmission Control Protocol, Src Port: 51558, Dst Port: 80, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 29.988794      192.168.1.158         142.250.31.94         TCP      66     51559 → 80 [FIN, ACK] Seq=1 Ack=1 Win=2048 Len=0 TSval=2849709923 TSecr=1172217531
+
+Frame 40: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 142.250.31.94
+Transmission Control Protocol, Src Port: 51559, Dst Port: 80, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 30.002772      142.250.31.94         192.168.1.158         TCP      66     80 → 51563 [FIN, ACK] Seq=1 Ack=2 Win=261 Len=0 TSval=1227598161 TSecr=3127173791
+
+Frame 41: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 142.250.31.94, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51563, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 30.002797      172.253.122.94        192.168.1.158         TCP      66     80 → 51558 [FIN, ACK] Seq=1 Ack=2 Win=265 Len=0 TSval=3415845996 TSecr=2289428925
+
+Frame 42: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 172.253.122.94, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51558, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 30.002977      192.168.1.158         142.250.31.94         TCP      66     51563 → 80 [ACK] Seq=2 Ack=2 Win=2048 Len=0 TSval=3127173807 TSecr=1227598161
+
+Frame 43: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 142.250.31.94
+Transmission Control Protocol, Src Port: 51563, Dst Port: 80, Seq: 2, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 30.003056      192.168.1.158         172.253.122.94        TCP      66     51558 → 80 [ACK] Seq=2 Ack=2 Win=2048 Len=0 TSval=2289428941 TSecr=3415845996
+
+Frame 44: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 172.253.122.94
+Transmission Control Protocol, Src Port: 51558, Dst Port: 80, Seq: 2, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 30.003966      142.250.31.94         192.168.1.158         TCP      66     80 → 51559 [FIN, ACK] Seq=1 Ack=2 Win=261 Len=0 TSval=1172276200 TSecr=2849709923
+
+Frame 45: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 142.250.31.94, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51559, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 30.004189      192.168.1.158         142.250.31.94         TCP      66     51559 → 80 [ACK] Seq=2 Ack=2 Win=2048 Len=0 TSval=2849709939 TSecr=1172276200
+
+Frame 46: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 142.250.31.94
+Transmission Control Protocol, Src Port: 51559, Dst Port: 80, Seq: 2, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 31.597465      8.43.85.97            192.168.1.158         TCP      66     80 → 51578 [FIN, ACK] Seq=5645 Ack=997 Win=32256 Len=0 TSval=52156918 TSecr=176396938
+
+Frame 47: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 5645, Ack: 997, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 31.597578      192.168.1.158         8.43.85.97            TCP      66     51578 → 80 [ACK] Seq=997 Ack=5646 Win=131072 Len=0 TSval=176401996 TSecr=52156918
+
+Frame 48: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 997, Ack: 5646, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 31.615529      192.168.1.158         8.43.85.97            TCP      66     51578 → 80 [FIN, ACK] Seq=997 Ack=5646 Win=131072 Len=0 TSval=176402014 TSecr=52156918
+
+Frame 49: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: Apple_44:23:40 (8c:85:90:44:23:40), Dst: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90)
+Internet Protocol Version 4, Src: 192.168.1.158, Dst: 8.43.85.97
+Transmission Control Protocol, Src Port: 51578, Dst Port: 80, Seq: 997, Ack: 5646, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 31.641949      8.43.85.97            192.168.1.158         TCP      66     80 → 51578 [ACK] Seq=5646 Ack=998 Win=32256 Len=0 TSval=52157014 TSecr=176402014
+
+Frame 50: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface en0, id 0
+Ethernet II, Src: WistronNeweb_eb:10:90 (78:67:0e:eb:10:90), Dst: Apple_44:23:40 (8c:85:90:44:23:40)
+Internet Protocol Version 4, Src: 8.43.85.97, Dst: 192.168.1.158
+Transmission Control Protocol, Src Port: 80, Dst Port: 51578, Seq: 5646, Ack: 998, Len: 0
